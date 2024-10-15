@@ -1,5 +1,9 @@
 # Playwright Test Coverage
 
+A [Playwright](https://playwright.dev) extension that collects code coverage from running end-to-end tests. Assumes that code has been instrumented with [babel-plugin-istanbul](https://github.com/istanbuljs/babel-plugin-istanbul) during the build process.
+
+The coverage files are saved per test case attempt.
+
 ## Acknowledgement
 
 This package is a fork of the [playwrigh-test-coverage](https://www.npmjs.com/package/playwright-test-coverage).
@@ -18,10 +22,6 @@ The difference from the original package is in the way the output coverage files
 │ │ └── ...
 └── ...
 ```
-
-A [Playwright](https://playwright.dev) extension that collects code coverage from running end-to-end tests. Assumes that code has been instrumented with [babel-plugin-istanbul](https://github.com/istanbuljs/babel-plugin-istanbul) during the build process.
-
-The coverage files are saved per test case attempt.
 
 ## Prerequisites
 
