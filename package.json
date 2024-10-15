@@ -1,6 +1,6 @@
 {
-  "name": "playwright-test-coverage",
-  "version": "1.2.12",
+  "name": "@vcaisim/playwright-test-coverage",
+  "version": "1.0.0",
   "main": "index.js",
   "files": [
     "index.js",
@@ -12,10 +12,16 @@
     "istanbul",
     "babel"
   ],
-  "author": "Anish Karandikar <anishkny@gmail.com>",
+  "author": "Caisim Veaceslav <caisimslavic@gmail.com>",
+  "contributors": [
+    {
+      "name": "Anish Karandikar",
+      "email": "anishkny@gmail.com"
+    }
+  ],
   "license": "MIT",
   "description": "Extends Playwright test to measure code coverage",
-  "repository": "github:anishkny/playwright-test-coverage",
+  "repository": "github:vCaisim/playwright-test-coverage",
   "types": "index.d.ts",
   "peerDependencies": {
     "@playwright/test": "^1.14.1"
@@ -33,5 +39,8 @@
     "eslint": "^8.57.0",
     "eslint-config-prettier": "^9.1.0",
     "prettier": "^3.2.5"
+  },
+  "dependencies": {
+    "istanbul-lib-coverage": "^3.2.2"
   }
 }
