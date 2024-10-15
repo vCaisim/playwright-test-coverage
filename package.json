@@ -42,5 +42,8 @@
   },
   "dependencies": {
     "istanbul-lib-coverage": "^3.2.2"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
