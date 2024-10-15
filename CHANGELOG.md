@@ -5,6 +5,14 @@ See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-
 
 ## [Unreleased](https://github.com/anishkny/playwright-test-coverage/commits/main) (if any)
 
+## [1.0.1](https://github.com/vCaisim/playwright-test-coverage/compare/v1.0.0...v1.0.1) (2024-10-15)
+
+
+### Chores
+
+* set publish access to public ([2cf2323](https://github.com/vCaisim/playwright-test-coverage/commit/2cf23231961fc5604d71a6748126341d70a8df7e))
+* trigger ([c6adf40](https://github.com/vCaisim/playwright-test-coverage/commit/c6adf40940cf1f8a305d9ed72e212b6aab8a3749))
+
 ## 1.0.0 (2024-10-15)
 
 
